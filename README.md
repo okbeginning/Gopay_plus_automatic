@@ -1,8 +1,4 @@
-﻿## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ywnd1144/Gopay_plus_automatic&type=Date)](https://star-history.com/#ywnd1144/Gopay_plus_automatic&Date)
-
-# GoPay Plus 自动订阅机
+﻿# GoPay Plus 自动订阅机
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gopay__plus__automatic-blue?logo=github)](https://github.com/ywnd1144/Gopay_plus_automatic)
 [![Stars](https://img.shields.io/github/stars/ywnd1144/Gopay_plus_automatic?style=social)](https://github.com/ywnd1144/Gopay_plus_automatic)
@@ -666,3 +662,9 @@ Gopay_plus_automatic/
 ## 免责声明
 
 本项目仅供学习研究使用。使用者需自行承担风险，遵守相关服务条款，不得违反 OpenAI 条款和相关法律法规。使用本项目即默认用户知情并同意：一切后果由用户个人承担，与作者无关。
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ywnd1144/Gopay_plus_automatic&type=Date)](https://star-history.com/#ywnd1144/Gopay_plus_automatic&Date)
