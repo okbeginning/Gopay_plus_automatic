@@ -1,5 +1,10 @@
 # GoPay Workflow Orchestrator
 
+[![GitHub](https://img.shields.io/badge/GitHub-Gopay__plus__automatic-blue?logo=github)](https://github.com/ywnd1144/Gopay_plus_automatic)
+[![Stars](https://img.shields.io/github/stars/ywnd1144/Gopay_plus_automatic?style=social)](https://github.com/ywnd1144/Gopay_plus_automatic)
+
+> 项目地址：<https://github.com/ywnd1144/Gopay_plus_automatic>
+
 一个面向区域支付链路的轻量级流程编排框架，用于研究和调试多阶段支付提供方跳转、令牌化请求、验证挑战、异步轮询与最终状态确认等场景。
 
 本项目关注的是复杂支付流程中的工程可靠性、接口衔接、状态观测和自动化测试。它将分散在不同系统中的步骤组织成一个可复现、可观察、可扩展的流程，方便开发者分析链路行为、定位异常状态并改进集成质量。
@@ -275,3 +280,9 @@ docker run --env-file .env gopay-workflow-orchestrator
 ## License
 
 MIT
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ywnd1144/Gopay_plus_automatic&type=Date)](https://star-history.com/#ywnd1144/Gopay_plus_automatic&Date)
